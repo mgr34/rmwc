@@ -94,8 +94,7 @@ A List Component
 | `onAction` | `undefined \| (evt: ListOnActionEventT) => void` | A callback for when a list item is interacted with. evt.detail = number |
 | `twoLine` | `undefined \| false \| true` | Gives more space for dual lined list items. |
 | `vertical` | `undefined \| false \| true` | Sets the lists vertical orientation. Defaults to true |
-| `wrapFocus` | `undefined \| false \| true` | Sets the list to allow the up arrow on the first element to focus the
-last element of the list and vice versa. Defaults to true |
+| `wrapFocus` | `undefined \| false \| true` | Sets the list to allow the up arrow on the first element to focus the last element of the list and vice versa. Defaults to true |
 
 
 ## ListItem
